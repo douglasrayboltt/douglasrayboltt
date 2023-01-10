@@ -12,7 +12,7 @@ Eu me chamo Douglas Rayboltt Rodrigues !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrayboltt&color=yellow" alt="Profile views" /> </p>
 
 - Sou <strong>Estudante de Programação</strong>.<br /></p>
-<p>Tenho um grande onejtivo de me tornar um <strong>Programador,</strong> e poder criar algo que possa impactar na vida das pessoas>.
+<p>Tenho um grande obejtivo de me tornar um <strong>Programador,</strong> e poder criar projetos que possa impactar na vida das pessoas.
 </p>
 
 <p align="center">
