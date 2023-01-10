@@ -1,5 +1,6 @@
 <img align="right" height="280em" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
-# Olá, 
+# Olá,
+<br>
 Eu me chamo Douglas Rayboltt Rodrigues !
  
  <div>
@@ -11,7 +12,7 @@ Eu me chamo Douglas Rayboltt Rodrigues !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrayboltt&color=yellow" alt="Profile views" /> </p>
 
 - Sou <strong>Estudante de Programação</strong>.<br /></p>
-<p>Tenho um grande sonho de me tornar um <strong>Programador,</strong> e poder criar algo que possa ajudar todas as pessoas>.
+<p>Tenho um grande onejtivo de me tornar um <strong>Programador,</strong> e poder criar algo que possa impactar na vida das pessoas>.
 </p>
 
 <p align="center">
