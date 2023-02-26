@@ -58,7 +58,7 @@ Eu me chamo Douglas Rayboltt Rodrigues !
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/keidsonroby/"
        height="25"/></a>
   
-  <a href="https://www.linkedin.com/in/douglas-rayboltt-1b8b67186/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/douglas-rayboltt/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/"
        height="25"/></a>
 </p>  
